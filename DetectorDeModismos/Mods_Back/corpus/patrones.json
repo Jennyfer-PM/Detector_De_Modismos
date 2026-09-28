@@ -1,0 +1,23 @@
+[
+    {
+        "modismo": "caer el veinte",
+        "lematizado": "caer el veinte",
+        "patron_p": "veinte", 
+        "patron_s": ["caer", "cayo"],
+        "no_detectar": ["billete", "moneda", "pesos"]
+    },
+    {
+        "modismo": "irse de pinta",
+        "lematizado": "ir de pinta",
+        "patron_p": "pinta",
+        "patron_s": ["ir", "ir él", "ser"],
+        "no_detectar": ["uñas", "pelo"]
+    },
+    {
+        "modismo": "estar en la luna",
+        "lematizado": "estar en el luna",
+        "patron_p": "luna",
+        "patron_s": ["estar", "estabar", "estabas", "quedar"],
+        "no_detectar": ["mirar"]
+    }
+]

@@ -1,0 +1,37 @@
+------------------------------------------ Enlaces de investigación ----------------------------------------------
+GitHub código de lematización, N-gramas, etc -> https://github.com/CodigoMaquina/code/blob/main/machine_learning_python/Word2VecSimpsons.ipynb
+Microservicios -> https://aws.amazon.com/es/microservices/  y  https://www.bolboretainnova.com/bolboreta-desarrolla/glosario/microservicios/
+Base de datos vectorial -> https://www.ibm.com/mx-es/think/topics/vector-database
+Machine Learning -> https://www.ibm.com/mx-es/think/topics/supervised-learning#1509394340
+Bag of Words -> https://www.ibm.com/mx-es/think/topics/bag-of-words
+Aplicaciones con APIREST -> https://www.tutorialesprogramacionya.com/springbootya/detalleconcepto.php?punto=6&codigo=7&inicio=0  y  https://www.ibm.com/docs/es/taddm/7.3.0?topic=overview-developing-applications-using-rest-api
+
+------------------------------------------ Enlaces del Corpus ----------------------------------------------------
+Modismos y Frases Típicas Mexicanas -> https://www.sipuebla.com/spanishreader/modismos-mexicanos.html
+Guía Completa de los MODISMOS en Español su Significado Uso y Ejemplos para Hablar como un Nativo -> https://burbujadelespanol.com/guia-completa-de-los-modismos/
+¡Chido güey! Los modismos mexicanos recopilados en un diccionario -> https://www.poblanerias.com/2015/12/chido-guey-los-modismos-mexicanos-en-un-diccionario/
+Cuentos mexicanos cortos -> https://www.vocaeditorial.com/blog/cuentos-mexicanos-cortos/
+Cuentos mexicanos de los orígenes de la revolución -> https://www.spanishbookpress.com/marketing/pdfs/978-1-934768-04-4_SAMP.pdf
+5 cuentos mexicanos -> https://www.zendalibros.com/5-cuentos-mexicanos-para-un-miercoles/
+10 clásicos de la literatura mexicana -> https://kitzalet.com/editorial-digital/10-clasicos-de-la-literatura-mexicana/
+El laberinto de la soledad -> https://www.suneo.mx/literatura/subidas/Octavio%20Paz%20El%20Laberinto%20de%20la%20Soledad.pdf
+Confabulario -> http://samy.monocromatico.net/buks/ARREOLA%20JUAN%20JOSE%20-%20Confabulario.pdf
+Pedro Paramo -> https://web.seducoahuila.gob.mx/biblioweb/upload/Juan%20Rulfo%20-%20Pedro%20P%C3%A1ramo.pdf
+Bestiario -> https://www.colonialtours.com/ebook/ebooks/julio-cortazar-bestiario.pdf
+La muerte de Artemio cruz -> https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/la_muerte_de_artemio_cruz-carlos_fuentes.pdf
+Aura -> https://brasilia.cervantes.es/imagenes/file/biblioteca/pdf/carlos_fuentes_aura.pdf
+Las batallas en el desierto -> https://algundiaenalgunaparte.com/wp-content/uploads/2015/01/las-batallas-del-desierto-jose-e-pacheco.pdf
+Arrancame la vida -> https://tlriidcchazcapotzalco.wordpress.com/wp-content/uploads/2015/01/c3a1ngeles-mastretta-arrc3a1ncame-la-vida.pdf
+Como agua para chocolate -> https://www.suneo.mx/literatura/subidas/Laura%20Esquivel%20Como%20agua%20para%20chocolate.pdf
+Diablo Guardian -> http://coralito.umar.mx:8383/jspui/bitstream/123456789/1183/1/Diablo%20Guardi%C3%A1n.pdf
+Los 20 nuevos y mejores escritores mexicanos que cambian el panorama literario -> https://wmagazin.com/relatos/los-20-nuevos-y-mejores-escritores-mexicanos-que-cambian-el-panorama-literario/#ave-barrera
+Telenovelas mexicanas: un fenómeno cultural que no se detiene -> https://www.directoresmexico.com.mx/telenovelas-mexicanas-un-fenomeno-cultural-que-no-se-detiene/
+La familia P. Luche -> https://lafamiliapluche.fandom.com/es/wiki/La_familia_P._Luche
+Yo escribo 'La Rosa de Guadalupe' -> https://www.chilango.com/general/yo-escribo-la-rosa-de-guadalupe/
+Guia de la cultura mexicana -> https://www.westernunion.com/blog/es/guia-de-la-cultura-mexicana/
+Identidad mexicana construida desde el corazón -> https://www.istmo.mx/2013/09/25/identidad-mexicana-construida-desde-el-corazon/
+Ser mexicano es lo más chingon -> https://www.letras.com/luis-varez/ser-mexicano-es-lo-mas-chingon-remake-2025/
+La Vida del Vendedor Ambulante: 'El Tamalero' de Oscar Padilla -> https://www.letras.com/oscar-padilla/el-tamalero-2/significado.html
+LA MENTADA CONTESTADA -> https://www.letras.com/jenni-rivera/1438979/
+Se les pelo Baltazar -> https://www.letras.com/valentin-elizalde/se-les-pelo-baltazar/
+La Reina de la Pista: Un Análisis de 'Juana La Cubana' -> https://www.letras.com/fito-olivares/juana-la-cubana/significado.html

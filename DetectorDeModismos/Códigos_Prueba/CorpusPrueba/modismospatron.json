@@ -1,0 +1,14 @@
+[
+    {
+        "modismo": "caer el veinte", 
+        "patron": ["caer", "el", "veinte"]
+    },
+    {
+        "modismo": "irse de pinta",
+        "patron": ["ir", "de", "pinta"]
+    },
+    {
+        "modismo": "estar en la luna",
+        "patron": ["estar", "en", "el", "luna"]
+    }
+]

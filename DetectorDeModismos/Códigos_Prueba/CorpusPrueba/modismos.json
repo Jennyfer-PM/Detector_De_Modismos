@@ -1,0 +1,45 @@
+[
+    {
+        "modismo": "caer el veinte",
+        "significados": [
+            {
+                "descripción": "comprender algo",
+                "contexto": "conversación cotidiana"
+            }
+        ],
+        "pais": "México",
+        "ejemplos": [
+            "Después de la explicación le cayo el veinte"
+        ]
+    },
+    {
+        "modismo": "irse de pinta",
+        "significados": [
+            {
+                "descripción": "faltar a clases o actividades sin permiso",
+                "contexto": "conversación cotidiana"
+            }
+        ],
+        "pais": "México",
+        "ejemplos": [
+            "Se fue de pinta para ir al cine"
+        ]
+    },
+    {
+        "modismo": "estar en la luna",
+        "significados": [
+            {
+                "descripción": "estar distraído",
+                "contexto": "conversación cotidiana"
+            },
+            {
+                "descripción": "estar soñando despierto",
+                "contexto": "situaciones imaginativas"
+            }
+        ],
+        "pais": "México",
+        "ejemplos": [
+            "Pedro estaba en la luna durante toda la clase"
+        ]
+    }
+]
